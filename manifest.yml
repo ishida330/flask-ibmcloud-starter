@@ -1,5 +1,5 @@
 ---
 applications:
- - name: flask-e051466
+ - name: flask-xxxxx
    random-route: true
    memory: 128M
